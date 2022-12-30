@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hoangtrungkien
 - 👀 I’m interested in Cloud Security
-- 🌱 I’m currently learning AWS Certified Architect Associate
+- 🌱 I’m currently on my PNPT journey.
 - 📫 How to reach me via LinkedIn at https://www.linkedin.com/in/hoangtrungkien/
 
 <!---
